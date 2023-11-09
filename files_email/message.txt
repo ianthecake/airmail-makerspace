@@ -1,0 +1,11 @@
+Hello ${CONTACT_NAME},
+
+Our MailSense system detected a new letter for you in the mailbox.
+You can pick it up if you have the time.
+
+Until then - Keep working hard and have a nice day!
+
+___
+
+AirMail Notification System
+${DATETIME_STRING}
